@@ -1,0 +1,22 @@
+# ignore folders
+data/
+output/
+documents/
+
+# ignore types
+*.pdf
+*.html
+*.log
+*.png
+*.jp*g
+*.tiff
+*.od*
+*.xls*
+*.doc*
+*.ppt*
+
+# RStudio ignores
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
